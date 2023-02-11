@@ -5,7 +5,7 @@ import 'package:started_template_food_delivery_ui/models/restaurant.dart';
 import 'package:started_template_food_delivery_ui/models/user.dart';
 
 final _burrito =
-    Food(imageUrl: 'assets/images/burrito.jpg', name: 'Burrito', price: 8.99);
+    Food(imageUrl: 'assets/images/burrito.jpg', name: 'Nasi Uduk', price: 8.99);
 final _steak =
     Food(imageUrl: 'assets/images/steak.jpg', name: 'Steak', price: 17.99);
 final _pasta =
